@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Project/winequality/mlruns/0/cdfb5b97fe334c8f90c4492b9bf9485e/artifacts
+end_time: 1721911145744
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cdfb5b97fe334c8f90c4492b9bf9485e
+run_name: likeable-dove-584
+run_uuid: cdfb5b97fe334c8f90c4492b9bf9485e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721911139547
+status: 3
+tags: []
+user_id: om
